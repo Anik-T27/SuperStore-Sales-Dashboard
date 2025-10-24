@@ -52,13 +52,15 @@ creation, driving business success.
 Superstore-Sales-Dashboard
 │
 ├── Dashboard/
-│   └── Dashboard_sales.pbix
+│   └── Dashboard Superstore.pbix
 │
 ├── Dataset/
 │   └── SuperStore_Sales_Dataset.csv
 │
 ├── README.md
-└── images/
-    └── dashboard_preview.png
+└── Images/
+    └── page_1.png
+    └── page_2.png
+
 
 ```
